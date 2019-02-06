@@ -15,4 +15,4 @@ contactez-moi sur LinkedIn </a>.
 
 Un peu de JS pour travailler le côté magique, ça fait plaisir (ou pas) !
 
-<img src="https://media3.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=3640f6095c5afa536a6a62486b02d997" width='250' alt="STOP, on ne prend pas le code des autres nan mais ho !!!!" />
+<img src="https://media1.giphy.com/media/5eVHthwlYO9Ak/giphy.gif?cid=3640f6095c5afe156d48415132dd2b3f" width='250' alt="STOP, on ne prend pas le code des autres nan mais ho !!!!" />
